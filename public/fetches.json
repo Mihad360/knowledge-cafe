@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "cover_pic": "https://img.freepik.com/free-photo/blackboard-amidst-cooking-ingredients_23-2147749526.jpg?w=740&t=st=1694634670~exp=1694635270~hmac=bdc5c020561381f88bd2ba928b9585086fa93722d93f1f2a283530b3fbd69586",
+        "author": "John Doe",
+        "author_img": "https://img.freepik.com/free-photo/smart-looking-teacher_53876-23045.jpg?w=740&t=st=1694635088~exp=1694635688~hmac=1d7d50d63436b51544e0320d1e159f4a861b4abd9766c790ddc11b6a222ba2b5",
+        "title": "The Art of Cooking",
+        "posted_date": "2023-09-14",
+        "reading_time": 10,
+        "hashtags": ["cooking", "food", "recipes"]
+    },
+    {
+        "id": "2",
+        "cover_pic": "https://img.freepik.com/free-photo/man-relax-siting-bank-flowing-river_23-2148187283.jpg?w=740&t=st=1694634786~exp=1694635386~hmac=be3f7bb2841814a1e22913b227ed5ba0c90bed0ca83bfed3f80833054f8c0fc0",
+        "author": "Jane Smith",
+        "author_img": "https://img.freepik.com/free-photo/portrait-young-confident-businessman-wearing-glasses_158595-5359.jpg?size=626&ext=jpg&ga=GA1.2.1929037704.1694634886&semt=ais",
+        "title": "Traveling on a Budget",
+        "posted_date": "2023-09-13",
+        "reading_time": 8,
+        "hashtags": ["travel", "budget", "adventure"]
+    },
+    {
+        "id": "3",
+        "cover_pic": "https://img.freepik.com/free-vector/camp-space-scene_1308-34675.jpg?w=900&t=st=1694634853~exp=1694635453~hmac=7c5567df4b3e04534df1273ca568d6573ebf3cd82b878496adbe7800b84cd68e",
+        "author": "Alex Johnson",
+        "author_img": "https://img.freepik.com/free-photo/portrait-smiling-blonde-woman_23-2148316635.jpg?size=626&ext=jpg&ga=GA1.2.1929037704.1694634886&semt=ais",
+        "title": "The Science of Space Exploration",
+        "posted_date": "2023-09-12",
+        "reading_time": 15,
+        "hashtags": ["space", "science", "exploration"]
+    },
+    {
+        "id": "4",
+        "cover_pic": "https://img.freepik.com/free-photo/front-view-fresh-fruits-composition-white-background-berry-citrus-healthy-life-tree-color-tasty-photo-ripe-fruit_140725-98109.jpg?w=740&t=st=1694634910~exp=1694635510~hmac=89f73a560372e903b7dd39a16ce66289b06cd77b16a7a37e08c66165c6cde440",
+        "author": "Emily Davis",
+        "author_img": "https://img.freepik.com/free-photo/ceo-blue-suit_23-2147626349.jpg?w=740&t=st=1694635180~exp=1694635780~hmac=8a267b44bd73a8163eb189afb68e3484857794be2dfd0d73593cc260b559f3b3",
+        "title": "Health and Wellness Tips",
+        "posted_date": "2023-09-11",
+        "reading_time": 12,
+        "hashtags": ["health", "wellness", "tips"]
+    },
+    {
+        "id": "5",
+        "cover_pic": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062004.jpg?w=740&t=st=1694634981~exp=1694635581~hmac=3ac2ede974cfb60c5b290a8778cd00bd6c1a4f0d8383939b85b5857ff05b00b4",
+        "author": "Michael Brown",
+        "author_img": "https://img.freepik.com/free-photo/portrait-business-woman-office_1398-6.jpg?w=360&t=st=1694635203~exp=1694635803~hmac=9c4d4a95a7ff55f6dea8d1be74c2a5996d77978a12e2277649a1bbc437386992",
+        "title": "Coding for Beginners",
+        "posted_date": "2023-09-10",
+        "reading_time": 7,
+        "hashtags": ["coding", "programming", "beginners"]
+    }
+]
